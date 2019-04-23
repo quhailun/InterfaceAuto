@@ -1,0 +1,22 @@
+{
+  "case1":{
+      "pageNum":1,
+      "pageSize":100,
+      "latStart":"39.9873275756836",
+      "lngStart":"116.50575256347659"
+  },
+  "case2":{
+      "pageNum":1,
+      "pageSize":100,
+      "latStart":"37.06965",
+      "lngStart":"114.49236"
+  },
+  "case3":{
+      "pageNum":1,
+      "pageSize":100,
+      "latStart":"27.42673",
+      "lngStart":"108.3766"
+
+  }
+
+}
